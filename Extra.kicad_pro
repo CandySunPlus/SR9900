@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "sr9900.kicad_pro",
+    "filename": "Extra.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -318,7 +318,7 @@
   },
   "sheets": [
     [
-      "626fa793-5239-4f72-8828-5c3c0298ffd5",
+      "f29d3ed1-9386-4934-b71a-143bad1e3051",
       ""
     ]
   ],
